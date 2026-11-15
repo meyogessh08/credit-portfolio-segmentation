@@ -1,0 +1,21 @@
+{
+  "feature_names": [
+    "Income",
+    "LoanAmount",
+    "DTI",
+    "CreditScore",
+    "EmploymentLength",
+    "Purpose_credit_card",
+    "Purpose_debt_consolidation",
+    "Purpose_home_improvement",
+    "Purpose_major_purchase",
+    "Purpose_other",
+    "Purpose_infrequent_sklearn",
+    "HomeOwnership_mortgage",
+    "HomeOwnership_own",
+    "HomeOwnership_rent",
+    "HomeOwnership_infrequent_sklearn"
+  ],
+  "n_components": 5,
+  "variance_explained": 0.9470857977867126
+}
