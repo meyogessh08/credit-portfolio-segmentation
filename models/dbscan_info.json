@@ -1,0 +1,7 @@
+{
+  "eps": 1.0301281609336348,
+  "min_samples": 10,
+  "hierarchical_k": 5,
+  "linkage": "ward",
+  "hierarchical_sample": 5000
+}
