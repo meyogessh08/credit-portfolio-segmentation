@@ -1,0 +1,5 @@
+,clusters,noise_share,largest_share,silhouette,davies_bouldin,calinski_harabasz,agreement_with_kmeans_ARI
+K-Means (k=5),5.0,0.0,0.249,0.175,1.486,1017.4,
+"Hierarchical, Ward (k=5)",5.0,0.0,0.389,0.121,1.735,754.7,0.344
+"DBSCAN, 80th percentile eps",4.0,0.1,0.999,0.103,0.926,15.3,
+"DBSCAN, 95th percentile eps",1.0,0.014,1.0,,,,

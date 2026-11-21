@@ -1,0 +1,9 @@
+line-length = 99
+
+[lint]
+select = ["E", "F", "W"]
+ignore = ["E501"]
+
+[lint.per-file-ignores]
+"app/app.py" = ["E402"]
+"tests/test_segments.py" = ["E402"]
